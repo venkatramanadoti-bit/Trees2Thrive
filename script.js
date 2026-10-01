@@ -8,7 +8,7 @@
    CHANGE ONLY THIS LINE WHEN YOUR TEAM NAME IS DECIDED
 ========================================================= */
 
-const TEAM_NAME = "Not decided yet";
+const TEAM_NAME = "ROOT RISE";
 
 
 /* =========================================================
